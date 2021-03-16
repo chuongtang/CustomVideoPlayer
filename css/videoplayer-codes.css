@@ -1,0 +1,11 @@
+
+.icon-pause:before { content: '\e800'; } /* '' */
+.icon-stop:before { content: '\e801'; } /* '' */
+.icon-to-end:before { content: '\e802'; } /* '' */
+.icon-to-start:before { content: '\e803'; } /* '' */
+.icon-volume-up:before { content: '\e804'; } /* '' */
+.icon-volume-off:before { content: '\e805'; } /* '' */
+.icon-link-ext:before { content: '\f08e'; } /* '' */
+.icon-resize-full-alt:before { content: '\f0b2'; } /* '' */
+.icon-spinner:before { content: '\f110'; } /* '' */
+.icon-play:before { content: '\f144'; } /* '' */
